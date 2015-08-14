@@ -11,9 +11,9 @@ Qwip is a social media application predicated on content generated from those ar
 
 ## Needed Improvements/ Additions
 
-Overall design \n
-Search for users \n
-Update profile pictures \n
-Settings \n
-Groups \n
+Overall design <br />
+Search for users <br />
+Update profile pictures <br /> 
+Settings <br />
+Groups <br />
 
