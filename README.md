@@ -2,7 +2,7 @@
 
 ## Notes
 
-Development on Qwip has been temporarily paused as I pursue my next project/ venture Impact, which I am more passionate about
+Development on Qwip has been temporarily paused as I pursue my next project/ venture Impact, which I am more passionate about.
 
 ## About Qwip
  
@@ -11,9 +11,9 @@ Qwip is a social media application predicated on content generated from those ar
 
 ## Needed Improvements/ Additions
 
-Overall design 
-Search for users
-Update profile pictures
-Settings
-Groups
+Overall design \n
+Search for users \n
+Update profile pictures \n
+Settings \n
+Groups \n
 
