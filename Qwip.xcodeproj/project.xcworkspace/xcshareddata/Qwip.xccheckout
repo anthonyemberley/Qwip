@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F0E51F3D-6A18-49B2-A709-C5E9227BD193</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Qwip</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3CAD0720300F36BE758A632308044CB16D11E95A</key>
+		<string>github.com:anthonyemberley/Qwip.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Qwip.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3CAD0720300F36BE758A632308044CB16D11E95A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:anthonyemberley/Qwip.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3CAD0720300F36BE758A632308044CB16D11E95A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3CAD0720300F36BE758A632308044CB16D11E95A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Qwip</string>
+		</dict>
+	</array>
+</dict>
+</plist>

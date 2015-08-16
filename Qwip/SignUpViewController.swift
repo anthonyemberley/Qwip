@@ -198,9 +198,9 @@ class SignUpViewController: UIViewController, UITextFieldDelegate {
         user.profilePhoto = PFFile()
         
         
-        let imageCover = UIImage(named: "defaultCover.jpg")
+        let imageCover = UIImage(named: "defaultCover.png")
         let imageCoverData = UIImagePNGRepresentation(imageCover)
-        let imageCoverFile = PFFile(name:"defaultCover.jpg", data:imageCoverData)
+        let imageCoverFile = PFFile(name:"defaultCover.png", data:imageCoverData)
         imageCoverFile.saveInBackground()
         
         user.coverPhoto = imageCoverFile
